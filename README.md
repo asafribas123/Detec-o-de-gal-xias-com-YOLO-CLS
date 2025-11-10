@@ -56,7 +56,7 @@ pip install ultralytics numpy pandas matplotlib seaborn tqdm h5py
 Run the preprocessing notebook: python downloads_dataset.ipynb
 Then train and evaluate the YOLO-CLS model: python Yolo_dados.ipynb
 
-📊 Results
+## 📊 Results
 Metric	Value
 Top-1 Accuracy	0.90
 Top-5 Accuracy	1.00
@@ -73,7 +73,7 @@ Irregular: 0.94 F1
 Example:
 
 
-🧠 Methodology Summary
+## 🧠 Methodology Summary
 
 Architecture: YOLOv8-CLS (classification head adaptation)
 
@@ -85,7 +85,7 @@ Hardware: AMD Ryzen 5 4600G (CPU-based training)
 
 The model achieved high stability, generalization, and interpretability — comparable to or exceeding CNNs such as ResNet-50 and EfficientNet.
 
-🔗 Related Files
+## 🔗 Related Files
 
 File: downloads_dataset.ipynb
 Repository: https://github.com/asafribas123/Galaxy_classification_with_YOLO-CLS
@@ -95,7 +95,7 @@ If you use this repository, please cite: @article{ribas2025yolocls,
   journal={IEEE Journal of Computational Modeling},
   year={2025}
 }
-Asaf Ribas
+## Asaf Ribas
 Physicist and M.Sc. Student in Computational Modeling – FURG
 Research in galaxy morphology, machine learning, and spectroscopy
 📧 asaf.ribas@furg.br
