@@ -1,3 +1,7 @@
-# Galaxy_morphology_classification_YOLO-CLS
+## Overview
+Galaxy morphology is a key aspect of extragalactic astronomy.  
+This repository provides the implementation, datasets, and trained models used in the paper:
+> *"Deep Learning-Based Morphological Analysis of Galaxies from SDSS and DECaLS Using YOLO-CLS" (Ribas 2025)*
 
-Aqui contém os códigos de dowlods e pré-processamento das imagens e assim como o código de classificação das galáxias utilizando YOLO CLS.
+Our goal is to demonstrate the capability of YOLOv8-CLS for accurate, scalable, and interpretable galaxy classification.
+
