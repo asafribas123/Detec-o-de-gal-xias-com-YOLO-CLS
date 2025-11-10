@@ -51,7 +51,7 @@ pip install -r requirements.txt
 Or manually:
 pip install ultralytics numpy pandas matplotlib seaborn tqdm h5py
 
-🚀 Usage
+## 🚀 Usage
 
 Run the preprocessing notebook: python downloads_dataset.ipynb
 Then train and evaluate the YOLO-CLS model: python Yolo_dados.ipynb
